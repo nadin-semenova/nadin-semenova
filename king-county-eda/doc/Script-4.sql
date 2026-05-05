@@ -1,0 +1,29 @@
+SELECT
+king_county_house_sales.id AS sales_id,
+king_county_house_sales.house_id,
+king_county_house_sales.date,
+king_county_house_sales.price,
+king_county_house_details.bedrooms AS bedrooms_num,
+king_county_house_details.bathrooms AS bathrooms_num,
+king_county_house_details.sqft_living,
+king_county_house_details.sqft_lot,
+king_county_house_details.floors AS floors_total,
+king_county_house_details.waterfront,
+king_county_house_details.VIEW,
+king_county_house_details.CONDITION,
+king_county_house_details.grade,
+king_county_house_details.sqft_above,
+king_county_house_details.sqft_basement,
+king_county_house_details.yr_built,
+king_county_house_details.yr_renovated,
+king_county_house_details.zipcode,
+king_county_house_details.lat,
+king_county_house_details.long,
+king_county_house_details.sqft_living15,
+king_county_house_details.sqft_lot15
+FROM king_county_house_sales
+LEFT JOIN king_county_house_details
+ON king_county_house_sales.house_id = king_county_house_details.id;
+
+
+SELECT count(*) FROM king_county_house_details;
