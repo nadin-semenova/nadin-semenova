@@ -17,7 +17,7 @@ Here are some of my selected projects:
 
 | Project | Stack | Description |
 |---------|-------|------------|
-| [UMAMI — Food Recognition](https://github.com/nadin-semenova/umami) | TensorFlow · Streamlit | **Computer Vision:** Two-stage CNN: food/non-food filter (98% accuracy) + 101-class dish classifier (~75% Top-1 accuracy). Implementation of transfer learning and Grad-CAM explainability. |
+| [UMAMI — Food Recognition](/umami) | TensorFlow · Streamlit | **Computer Vision:** Two-stage CNN: food/non-food filter (98% accuracy) + 101-class dish classifier (~75% Top-1 accuracy). Implementation of transfer learning and Grad-CAM explainability. |
 | [Tanzania Tourism Cost Prediction](https://github.com/nadin-semenova/tanzania-tourism-cost-prediction) | XGBoost · Scikit-learn | **Predictive Modeling:** End-to-end ML regression pipeline. Feature engineering and data preprocessing to predict trip costs across 23 features. |
 | [King County House Sales — EDA](https://github.com/nadin-semenova/king-county-eda) | Pandas · Plotly · PostgreSQL | **Market Analysis:** Exploratory analysis, hypothesis testing, correlation analysis, client property search with weighted scoring. |
 | [Delivery Service Analytics](https://github.com/nadin-semenova/delivery-service-analytics) | PostgreSQL · Python | **Product & Marketing Analytics:** Calculating unit economics (ROI, Retention) and daily P&L metrics from operational logs. |
