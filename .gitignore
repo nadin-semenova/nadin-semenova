@@ -1,2 +1,8 @@
 # MacOS
 .DS_Store
+
+# Large model files
+*.keras
+*.h5
+*.pt
+*.pth

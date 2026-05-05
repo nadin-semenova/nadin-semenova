@@ -1,0 +1,103 @@
+dish_name,main_ingredients,optional_ingredients,all_allergens,dietary_status,countries,nutrients_per_100g,proteins,fats,carbs,classic_recipe,flags
+apple_pie,"Apples, flour, butter","Cinnamon, sugar","Milk, Wheat",Vegetarian,"USA, GBR",237 kcal,3g protein,10g fat,34g carbs,"Apples 300g, Flour 200g, Butter 100g; Time: 75 minutes","🇺🇸, 🇬🇧"
+baby_back_ribs,"Pork ribs, BBQ sauce","Honey, garlic",Honey,Non-Vegetarian,USA,300 kcal,25g protein,20g fat,5g carbs,"Pork ribs 500g, BBQ sauce 100g; Time: 150 minutes",🇺🇸
+baklava,"Phyllo dough, nuts, honey","Cinnamon, cardamom","Nuts, Wheat, Honey",Vegetarian,"TUR, GRC",430 kcal,4g protein,21g fat,56g carbs,"Phyllo dough 200g, Nuts 150g, Honey 100g; Time: 60 minutes","🇹🇷, 🇬🇷"
+beef_carpaccio,"Beef, olive oil, parmesan","Lemon, capers","Milk, Citrus",Non-Vegetarian,ITA,175 kcal,19g protein,9g fat,1g carbs,"Beef 200g, Olive oil 20ml, Parmesan 30g; Time: 15 minutes",🇮🇹
+beef_tartare,"Raw beef, egg yolk","Mustard, capers","Eggs, Mustard",Non-Vegetarian,"FRA, DEU",200 kcal,18g protein,14g fat,0g carbs,"Raw beef 150g, Egg yolk 1, Mustard 10g; Time: 20 minutes","🇫🇷, 🇩🇪"
+beet_salad,"Beets, goat cheese","Walnuts, arugula","Milk, Nuts",Vegan,NONE,120 kcal,4g protein,5g fat,14g carbs,"Beets 200g, Goat cheese 50g, Arugula 30g; Time: 25 minutes",NONE
+beignets,"Flour, sugar, butter","Vanilla, powdered sugar","Milk, Wheat",Vegetarian,FRA,290 kcal,4g protein,12g fat,40g carbs,"Flour 200g, Sugar 100g, Butter 50g; Time: 70 minutes",🇫🇷
+bibimbap,"Rice, beef, egg, carrot","Kimchi, spinach, soy sauce","Eggs, Soy",Non-Vegetarian,KOR,450 kcal,18g protein,14g fat,62g carbs,"Rice 200g, Beef 100g, Egg 1, Vegetables 50g; Time: 60 minutes",🇰🇷
+bread_pudding,"Bread, milk, eggs","Raisins, cinnamon","Milk, Eggs, Wheat",Vegetarian,"GBR, IRL",260 kcal,6g protein,10g fat,35g carbs,"Bread 150g, Milk 100ml, Eggs 2; Time: 75 minutes","🇬🇧, 🇮🇪"
+breakfast_burrito,"Tortilla, eggs, cheese","Avocado, salsa","Wheat, Milk, Eggs",Non-Vegetarian,"USA, MEX",300 kcal,12g protein,15g fat,30g carbs,"Tortilla 100g, Eggs 2, Cheese 50g, Avocado 50g; Time: 25 minutes","🇺🇸, 🇲🇽"
+bruschetta,"Bread, tomatoes, olive oil","Garlic, basil",Wheat,Vegetarian,ITA,180 kcal,4g protein,7g fat,24g carbs,"Bread 200g, Tomatoes 150g, Olive oil 50ml; Time: 20 minutes",🇮🇹
+caesar_salad,"Romaine lettuce, croutons, parmesan",Caesar dressing,"Wheat, Milk",Vegetarian,"MEX, USA",180 kcal,7g protein,12g fat,10g carbs,"Romaine lettuce 200g, Croutons 50g, Parmesan 30g; Time: 25 minutes","🇲🇽, 🇺🇸"
+cannoli,"Ricotta cheese, flour, sugar, butter
+","Chocolate chips, powdered sugar","Milk, Wheat, Chocolate",Vegetarian,ITA,220 kcal,6g protein,10g fat,28g carbs,"Ricotta 200g, Pastry shells 100g, Sugar 50g; Time: 60 minutes",🇮🇹
+caprese_salad,"Tomatoes, mozzarella, basil","Olive oil, balsamic glaze",Milk,Vegetarian,ITA,150 kcal,7g protein,10g fat,4g carbs,"Tomatoes 150g, Mozzarella 100g, Basil 20g; Time: 15 minutes",🇮🇹
+carrot_cake,"Carrots, flour, cream cheese, eggs","Walnuts, cinnamon","Milk, Eggs, Nuts, Wheat",Vegetarian,"GBR, DNK, FRA",330 kcal,4g protein,20g fat,36g carbs,"Carrots 200g, Flour 150g, Cream cheese 100g; Time: 75 minutes","🇬🇧, 🇩🇰, 🇫🇷"
+ceviche,"Fish, lime juice, cilantro","Onions, avocado","Fish, Citrus",Non-Vegetarian,PER,120 kcal,15g protein,2g fat,5g carbs,"Fish 200g, Lime juice 50ml, Cilantro 20g; Time: 25 minutes",🇵🇪
+cheese_plate,Cheese assortment,"Crackers, fruits","Milk, Wheat",Vegetarian,FRA,400 kcal,20g protein,30g fat,10g carbs,"Cheese 300g, Crackers 150g, Grapes 100g; Time: 10 minutes",🇫🇷
+cheesecake,"Cream cheese, graham crackers","Berries, whipped cream","Milk, Wheat",Vegetarian,NONE,320 kcal,5g protein,22g fat,28g carbs,"Cream cheese 200g, Graham crackers 100g, Sugar 50g; Time: 120 minutes",NONE
+chicken_curry,"Chicken, curry spices, coconut milk","Rice, naan bread",Wheat,Non-Vegetarian,IND,250 kcal,18g protein,15g fat,10g carbs,"Chicken 300g, Curry spices 20g, Coconut milk 200ml; Time: 50 minutes",🇮🇳
+chicken_quesadilla,"Tortilla, chicken, cheese","Salsa, sour cream","Wheat, Milk",Non-Vegetarian,MEX,300 kcal,20g protein,15g fat,25g carbs,"Tortilla 100g, Chicken 200g, Cheese 100g; Time: 25 minutes",🇲🇽
+chicken_wings,"Chicken wings, hot sauce","Celery, ranch dressing","Celery, Milk",Non-Vegetarian,USA,290 kcal,20g protein,20g fat,2g carbs,"Chicken wings 300g, Hot sauce 50ml; Time: 40 minutes",🇺🇸
+chocolate_cake,"Flour, cocoa powder, butter",Chocolate frosting,"Milk, Wheat, Chocolate",Vegetarian,"AUT, DEU",350 kcal,5g protein,20g fat,40g carbs,"Flour 200g, Cocoa 50g, Butter 100g; Time: 55 minutes","🇦🇹, 🇩🇪"
+chocolate_mousse,"Chocolate, eggs, cream",Whipped cream,"Milk, Eggs, Chocolate",Vegetarian,FRA,240 kcal,5g protein,15g fat,20g carbs,"Chocolate 200g, Eggs 3, Cream 200ml; Time: 25 minutes",🇫🇷
+churros,"Flour, sugar, butter","Cinnamon, chocolate sauce","Milk, Wheat, Chocolate",Vegetarian,"ESP, PRT",310 kcal,4g protein,12g fat,44g carbs,"Flour 200g, Sugar 100g, Butter 50g; Time: 40 minutes","🇪🇸, 🇵🇹"
+clam_chowder,"Clams, cream, potatoes","Bacon, parsley","Milk, Shellfish",Non-Vegetarian,USA,180 kcal,7g protein,10g fat,15g carbs,"Clams 300g, Cream 200ml, Potatoes 200g; Time: 40 minutes",🇺🇸
+club_sandwich,"Bread, turkey, bacon","Lettuce, tomato, mayo",Wheat,Non-Vegetarian,USA,300 kcal,15g protein,12g fat,30g carbs,"Bread 150g, Turkey 200g, Bacon 50g; Time: 20 minutes",🇺🇸
+crab_cakes,"Crab meat, breadcrumbs, eggs","Lemon, tartar sauce","Eggs, Shellfish, Wheat, Citrus",Non-Vegetarian,USA,200 kcal,14g protein,10g fat,15g carbs,"Crab meat 200g, Breadcrumbs 100g, Eggs 1; Time: 25 minutes",🇺🇸
+creme_brulee,"Egg yolks, cream, sugar",Vanilla,"Milk, Eggs",Vegetarian,FRA,250 kcal,5g protein,20g fat,20g carbs,"Egg yolks 4, Cream 200ml, Sugar 50g; Time: 50 minutes",🇫🇷
+croque_madame,"Bread, ham, cheese, egg","Butter, bechamel sauce","Milk, Eggs, Wheat",Non-Vegetarian,FRA,320 kcal,15g protein,20g fat,25g carbs,"Bread 150g, Ham 100g, Cheese 50g, Egg 1; Time: 25 minutes",🇫🇷
+cup_cakes,"Flour, sugar, butter","Frosting, sprinkles","Milk, Wheat",Vegetarian,USA,300 kcal,4g protein,12g fat,45g carbs,"Flour 200g, Sugar 100g, Butter 50g; Time: 40 minutes",🇺🇸
+deviled_eggs,"Eggs, mayo, mustard","Paprika, dill","Eggs, Mustard",Vegetarian,"USA, FRA",150 kcal,6g protein,12g fat,1g carbs,"Eggs 6, Mayo 50g, Mustard 10g; Time: 20 minutes","🇺🇸, 🇫🇷"
+donuts,"Flour, sugar, butter","Glaze, sprinkles","Milk, Wheat",Vegetarian,"USA, NLD",250 kcal,3g protein,12g fat,30g carbs,"Flour 200g, Sugar 100g, Butter 50g; Time: 30 minutes","🇺🇸, 🇳🇱"
+dumplings,"Flour, meat or vegetables","Soy sauce, sesame oil","Soy, Wheat, Sesame",Non-Vegetarian,CHN,200 kcal,7g protein,5g fat,30g carbs,"Flour 200g, Meat 150g, Vegetables 100g; Time: 35 minutes",🇨🇳
+edamame,"Soybeans, salt",Chili flakes,Soy,Vegan,JPN,120 kcal,11g protein,5g fat,10g carbs,"Soybeans 200g, Salt 5g; Time: 15 minutes",🇯🇵
+eggs_benedict,"Eggs, English muffin, hollandaise","Ham, spinach","Eggs, Wheat, Milk",Vegetarian,USA,250 kcal,10g protein,20g fat,15g carbs,"Eggs 2, English muffin 100g, Hollandaise 50g; Time: 30 minutes",🇺🇸
+escargots,"Snails, garlic butter","Parsley, breadcrumbs","Shellfish, Milk, Wheat",Non-Vegetarian,FRA,190 kcal,12g protein,15g fat,5g carbs,"Snails 200g, Garlic butter 50g; Time: 20 minutes",🇫🇷
+falafel,"Chickpeas, herbs, spices","Tahini, pita bread",Wheat,Vegan,"ISR, EGY",180 kcal,6g protein,10g fat,15g carbs,"Chickpeas 200g, Herbs 20g, Spices 10g; Time: 25 minutes","🇮🇱, 🇪🇬"
+filet_mignon,"Beef, butter","Garlic, herbs",Milk,Non-Vegetarian,FRA,250 kcal,25g protein,18g fat,0g carbs,"Beef 200g, Butter 50g; Time: 25 minutes",🇫🇷
+fish_and_chips,"Fish, potatoes, batter",Tartar sauce,"Fish, Wheat",Non-Vegetarian,GBR,330 kcal,12g protein,18g fat,25g carbs,"Fish 200g, Potatoes 150g, Batter 100g; Time: 40 minutes",🇬🇧
+foie_gras,"Duck liver, butter","Bread, jam","Milk, Wheat",Non-Vegetarian,FRA,400 kcal,12g protein,35g fat,3g carbs,"Duck liver 200g, Butter 50g; Time: 15 minutes",🇫🇷
+french_fries,"Potatoes, oil, salt","Ketchup, mayo",,Vegan,"BEL, FRA",312 kcal,3g protein,15g fat,42g carbs,"Potatoes 200g, Oil 500ml, Salt 10g; Time: 30 minutes","🇧🇪, 🇫🇷"
+french_onion_soup,"Onions, beef broth, cheese",Croutons,"Milk, Wheat",Vegetarian,FRA,150 kcal,7g protein,5g fat,20g carbs,"Onions 300g, Beef broth 500ml, Cheese 50g; Time: 60 minutes",🇫🇷
+french_toast,"Bread, eggs, milk","Cinnamon, syrup","Milk, Eggs, Wheat",Vegetarian,NONE,200 kcal,6g protein,8g fat,26g carbs,"Bread 200g, Eggs 2, Milk 200ml; Time: 30 minutes",NONE
+fried_calamari,"Calamari, flour, oil","Lemon, marinara sauce","Shellfish, Wheat, Citrus",Non-Vegetarian,"ITA, GRC",150 kcal,10g protein,7g fat,10g carbs,"Calamari 300g, Flour 100g, Oil 500ml; Time: 25 minutes","🇮🇹, 🇬🇷"
+fried_rice,"Rice, eggs, soy sauce","Vegetables, chicken","Eggs, Soy",Vegetarian,CHN,250 kcal,8g protein,10g fat,30g carbs,"Rice 300g, Eggs 2, Soy sauce 30ml; Time: 25 minutes",🇨🇳
+frozen_yogurt,"Yogurt, sugar",Fruit toppings,Milk,Vegetarian,"USA, GRC",110 kcal,4g protein,2g fat,20g carbs,"Yogurt 200g, Sugar 50g; Time: 15 minutes","🇺🇸, 🇬🇷"
+garlic_bread,"Bread, butter, garlic","Parsley, cheese","Milk, Wheat",Vegetarian,"ITA, USA",150 kcal,5g protein,8g fat,15g carbs,"Bread 200g, Butter 50g, Garlic 20g; Time: 20 minutes","🇮🇹, 🇺🇸"
+gnocchi,"Potatoes, flour, egg","Tomato sauce, parmesan","Milk, Eggs, Wheat",Vegetarian,ITA,200 kcal,5g protein,5g fat,35g carbs,"Potatoes 300g, Flour 100g, Egg 1; Time: 40 minutes",🇮🇹
+greek_salad,"Tomatoes, cucumber, feta","Olives, oregano",Milk,Vegetarian,GRC,120 kcal,4g protein,8g fat,6g carbs,"Tomatoes 150g, Cucumber 100g, Feta 50g; Time: 15 minutes",🇬🇷
+grilled_cheese_sandwich,"Bread, cheese, butter",Tomatoes,"Milk, Wheat",Vegetarian,USA,300 kcal,10g protein,20g fat,25g carbs,"Bread 200g, Cheese 100g, Butter 50g; Time: 20 minutes",🇺🇸
+grilled_salmon,"Salmon, olive oil, lemon","Dill, garlic","Fish, Citrus",Non-Vegetarian,"NOR, SWE",250 kcal,23g protein,15g fat,0g carbs,"Salmon 200g, Olive oil 20ml, Lemon 10ml; Time: 30 minutes","🇳🇴, 🇸🇪"
+guacamole,"Avocado, lime, salt","Tomatoes, cilantro",Citrus,Vegan,MEX,150 kcal,2g protein,14g fat,5g carbs,"Avocado 300g, Lime 20ml, Salt 5g; Time: 15 minutes",🇲🇽
+gyoza,"Dumpling wrappers, ground pork","Soy sauce, vinegar","Soy, Wheat",Non-Vegetarian,JPN,180 kcal,7g protein,8g fat,20g carbs,"Dumpling wrappers 200g, Ground pork 150g; Time: 40 minutes",🇯🇵
+hamburger,"Beef patty, bun","Lettuce, tomato, cheese","Milk, Wheat",Non-Vegetarian,"USA, DEU",300 kcal,20g protein,15g fat,25g carbs,"Beef patty 150g, Bun 100g, Cheese 30g; Time: 30 minutes","🇺🇸, 🇩🇪"
+hot_and_sour_soup,"Broth, tofu, vinegar","Mushrooms, bamboo shoots",Soy,Non-Vegetarian,CHN,100 kcal,6g protein,4g fat,10g carbs,"Broth 500ml, Tofu 100g, Vinegar 10ml; Time: 30 minutes",🇨🇳
+hot_dog,"Sausage, bun","Mustard, ketchup","Mustard, Wheat",Non-Vegetarian,"USA, DEU",250 kcal,10g protein,15g fat,20g carbs,"Sausage 100g, Bun 100g, Mustard 10g; Time: 15 minutes","🇺🇸, 🇩🇪"
+huevos_rancheros,"Tortilla, eggs, salsa","Avocado, beans","Eggs, Wheat",Vegetarian,MEX,200 kcal,8g protein,10g fat,18g carbs,"Tortilla 100g, Eggs 2, Salsa 50g; Time: 30 minutes",🇲🇽
+hummus,"Chickpeas, tahini, olive oil","Garlic, paprika",Sesame,Vegan,NONE,170 kcal,6g protein,10g fat,12g carbs,"Chickpeas 300g, Tahini 50g, Olive oil 20ml; Time: 20 minutes",NONE
+ice_cream,"Milk, sugar, cream","Chocolate chips, fruit","Milk, Chocolate",Vegetarian,NONE,200 kcal,4g protein,11g fat,22g carbs,"Milk 500ml, Sugar 100g, Cream 200ml; Time: 30 minutes",NONE
+lasagna,"Pasta sheets, meat sauce, cheese","Spinach, ricotta","Milk, Wheat",Non-Vegetarian,ITA,300 kcal,15g protein,15g fat,25g carbs,"Pasta sheets 200g, Meat sauce 300g, Cheese 100g; Time: 120 minutes",🇮🇹
+lobster_bisque,"Lobster, cream, broth","Sherry, paprika","Milk, Shellfish",Non-Vegetarian,FRA,180 kcal,8g protein,10g fat,10g carbs,"Lobster 300g, Cream 200ml, Broth 500ml; Time: 75 minutes",🇫🇷
+lobster_roll_sandwich,"Lobster, roll, mayo","Celery, lettuce","Shellfish, Celery, Wheat",Non-Vegetarian,USA,250 kcal,12g protein,15g fat,20g carbs,"Lobster 150g, Roll 100g, Mayo 30g; Time: 25 minutes",🇺🇸
+macaroni_and_cheese,"Pasta, cheese, milk",Bread crumbs,"Milk, Wheat",Vegetarian,"USA, ITA",350 kcal,10g protein,20g fat,30g carbs,"Pasta 200g, Cheese 150g, Milk 200ml; Time: 40 minutes","🇺🇸, 🇮🇹"
+macarons,"Almond flour, egg whites, sugar",Food coloring,"Eggs, Nuts",Vegetarian,FRA,110 kcal,3g protein,5g fat,15g carbs,"Almond flour 100g, Egg whites 2, Sugar 150g; Time: 75 minutes",🇫🇷
+miso_soup,"Miso paste, tofu, seaweed",Green onions,Soy,Vegan,JPN,40 kcal,3g protein,2g fat,4g carbs,"Miso paste 30g, Tofu 100g, Seaweed 10g; Time: 15 minutes",🇯🇵
+mussels,"Mussels, garlic, white wine","Parsley, butter","Milk, Shellfish",Non-Vegetarian,BEL,150 kcal,10g protein,6g fat,5g carbs,"Mussels 500g, Garlic 20g, White wine 100ml; Time: 35 minutes",🇧🇪
+nachos,"Tortilla chips, cheese, jalapenos","Guacamole, sour cream",Milk,Vegetarian,MEX,300 kcal,8g protein,20g fat,25g carbs,"Tortilla chips 150g, Cheese 100g, Jalapenos 50g; Time: 25 minutes",🇲🇽
+omelette,"Eggs, cheese, butter","Ham, vegetables","Milk, Eggs",Vegetarian,FRA,200 kcal,12g protein,15g fat,2g carbs,"Eggs 3, Cheese 50g, Butter 20g; Time: 15 minutes",🇫🇷
+onion_rings,"Onions, flour, oil","Ketchup, mayo",Wheat,Vegetarian,USA,250 kcal,3g protein,12g fat,30g carbs,"Onions 200g, Flour 100g, Oil 500ml; Time: 25 minutes",🇺🇸
+oysters,"Oysters, lemon","Hot sauce, mignonette","Shellfish, Citrus",Non-Vegetarian,FRA,70 kcal,7g protein,2g fat,3g carbs,"Oysters 300g, Lemon 50g; Time: 10 minutes",🇫🇷
+pad_thai,"Rice noodles, shrimp, peanuts","Lime, bean sprouts","Nuts, Shellfish, Citrus",Non-Vegetarian,THA,350 kcal,12g protein,15g fat,40g carbs,"Rice noodles 200g, Shrimp 150g, Peanuts 50g; Time: 40 minutes",🇹🇭
+paella,"Rice, seafood, saffron","Chicken, chorizo",Shellfish,Non-Vegetarian,ESP,300 kcal,12g protein,10g fat,40g carbs,"Rice 300g, Seafood 200g, Saffron 1g; Time: 90 minutes",🇪🇸
+pancakes,"Flour, eggs, milk","Syrup, butter","Milk, Eggs, Wheat",Vegetarian,NONE,250 kcal,6g protein,8g fat,40g carbs,"Flour 200g, Eggs 2, Milk 200ml; Time: 25 minutes",NONE
+panna_cotta,"Cream, sugar, gelatin","Vanilla, fruit toppings",Milk,Vegetarian,ITA,150 kcal,3g protein,10g fat,12g carbs,"Cream 200ml, Sugar 50g, Gelatin 5g; Time: 25 minutes",🇮🇹
+peking_duck,"Duck, hoisin sauce, scallions","Cucumber, pancakes",Wheat,Non-Vegetarian,CHN,340 kcal,20g protein,20g fat,20g carbs,"Duck 300g, Hoisin sauce 50ml, Scallions 30g; Time: 120 minutes",🇨🇳
+pho,"Beef broth, rice noodles, beef","Basil, lime",Citrus,Non-Vegetarian,VNM,150 kcal,10g protein,3g fat,20g carbs,"Beef broth 500ml, Rice noodles 200g, Beef 150g; Time: 45 minutes",🇻🇳
+pizza,"Dough, tomato sauce, cheese","Pepperoni, vegetables","Milk, Wheat",Vegetarian,ITA,270 kcal,12g protein,10g fat,30g carbs,"Dough 200g, Tomato sauce 100g, Cheese 150g; Time: 25 minutes",🇮🇹
+pork_chop,"Pork chop, garlic, butter",Herbs,Milk,Non-Vegetarian,"USA, DEU",220 kcal,25g protein,12g fat,0g carbs,"Pork chop 300g, Garlic 10g, Butter 20g; Time: 30 minutes","🇺🇸, 🇩🇪"
+poutine,"Fries, gravy, cheese curds",Bacon,Milk,Vegetarian,CAN,320 kcal,8g protein,15g fat,40g carbs,"Fries 300g, Gravy 100ml, Cheese curds 100g; Time: 30 minutes",🇨🇦
+prime_rib,"Beef rib, garlic, butter",Herbs,Milk,Non-Vegetarian,USA,350 kcal,25g protein,28g fat,0g carbs,"Beef rib 300g, Garlic 20g, Butter 50g; Time: 90 minutes",🇺🇸
+pulled_pork_sandwich,"Pork, BBQ sauce, bun",Coleslaw,Wheat,Non-Vegetarian,USA,400 kcal,20g protein,15g fat,40g carbs,"Pork 200g, BBQ sauce 50ml, Bun 100g; Time: 35 minutes",🇺🇸
+ramen,"Ramen noodles, pork broth","Egg, seaweed","Eggs, Wheat",Non-Vegetarian,JPN,300 kcal,10g protein,12g fat,40g carbs,"Ramen noodles 200g, Pork broth 500ml, Egg 1; Time: 40 minutes",🇯🇵
+ravioli,"Pasta, ricotta, spinach",Tomato sauce,"Milk, Wheat",Vegetarian,ITA,250 kcal,8g protein,8g fat,35g carbs,"Pasta 200g, Ricotta 100g, Spinach 50g; Time: 50 minutes",🇮🇹
+red_velvet_cake,"Flour, cocoa, cream cheese",Vanilla,"Milk, Wheat, Eggs, Chocolate",Vegetarian,USA,400 kcal,5g protein,20g fat,50g carbs,"Flour 200g, Cocoa 50g, Cream cheese 100g; Time: 75 minutes",🇺🇸
+risotto,"Rice, broth, parmesan","Mushrooms, wine",Milk,Vegetarian,ITA,300 kcal,8g protein,10g fat,40g carbs,"Rice 300g, Broth 500ml, Parmesan 50g; Time: 40 minutes",🇮🇹
+samosa,"Potatoes, peas, pastry","Cilantro, chutney",Wheat,Vegetarian,"IND, PAK",200 kcal,4g protein,10g fat,25g carbs,"Potatoes 200g, Peas 100g, Pastry 200g; Time: 40 minutes","🇮🇳, 🇵🇰"
+sashimi,Raw fish,"Soy sauce, wasabi","Fish, Soy",Non-Vegetarian,JPN,120 kcal,20g protein,4g fat,0g carbs,"Fish 200g, Soy sauce 30ml, Wasabi 5g; Time: 15 minutes",🇯🇵
+scallops,"Scallops, butter, garlic",Lemon,"Shellfish, Milk, Citrus",Non-Vegetarian,FRA,150 kcal,15g protein,6g fat,3g carbs,"Scallops 200g, Butter 30g, Garlic 10g; Time: 25 minutes",🇫🇷
+seaweed_salad,"Seaweed, sesame oil",Chili flakes,"Soy, Sesame",Vegan,JPN,70 kcal,3g protein,4g fat,7g carbs,"Seaweed 100g, Sesame oil 20ml; Time: 15 minutes",🇯🇵
+shrimp_and_grits,"Shrimp, grits, cheese",Bacon,"Milk, Shellfish",Non-Vegetarian,USA,250 kcal,15g protein,12g fat,20g carbs,"Shrimp 200g, Grits 150g, Cheese 50g; Time: 40 minutes",🇺🇸
+spaghetti_bolognese,"Spaghetti, beef, tomato sauce",Parmesan,"Milk, Wheat",Non-Vegetarian,ITA,350 kcal,15g protein,12g fat,40g carbs,"Spaghetti 200g, Beef 150g, Tomato sauce 100g; Time: 45 minutes",🇮🇹
+spaghetti_carbonara,"Spaghetti, eggs, pancetta",Parmesan,"Wheat, Milk, Eggs",Non-Vegetarian,ITA,400 kcal,15g protein,18g fat,35g carbs,"Spaghetti 200g, Eggs 2, Pancetta 100g; Time: 30 minutes",🇮🇹
+spring_rolls,"Rice paper, vegetables","Shrimp, peanut sauce","Shellfish, Nuts",Vegan,"VNM, CHN",150 kcal,5g protein,5g fat,20g carbs,"Rice paper 200g, Vegetables 100g, Shrimp 50g; Time: 30 minutes","🇻🇳, 🇨🇳"
+steak,"Beef, garlic, butter",Herbs,Milk,Non-Vegetarian,"USA, ARG",250 kcal,30g protein,12g fat,0g carbs,"Beef 300g, Garlic 20g, Butter 50g; Time: 25 minutes","🇺🇸, 🇦🇷"
+strawberry_shortcake,"Strawberries, biscuits, cream",Sugar,"Milk, Wheat",Vegetarian,USA,200 kcal,4g protein,8g fat,30g carbs,"Strawberries 200g, Biscuits 150g, Cream 100ml; Time: 30 minutes",🇺🇸
+sushi,"Rice, fish, seaweed","Soy sauce, wasabi","Fish, Soy",Non-Vegetarian,JPN,200 kcal,10g protein,5g fat,25g carbs,"Rice 200g, Fish 100g, Seaweed 50g; Time: 20 minutes",🇯🇵
+tacos,"Tortilla, meat, cheese","Lettuce, salsa","Milk, Wheat",Non-Vegetarian,MEX,250 kcal,10g protein,12g fat,25g carbs,"Tortilla 200g, Meat 150g, Cheese 50g; Time: 25 minutes",🇲🇽
+takoyaki,"Octopus, batter, mayo","Bonito flakes, seaweed","Shellfish, Wheat, Eggs, Soy",Non-Vegetarian,JPN,300 kcal,8g protein,15g fat,30g carbs,"Octopus 100g, Batter 200g, Mayo 50g; Time: 30 minutes",🇯🇵
+tiramisu,"Mascarpone, coffee, ladyfingers",Cocoa powder,"Milk, Wheat, Eggs, Chocolate",Vegetarian,ITA,350 kcal,7g protein,20g fat,40g carbs,"Mascarpone 200g, Coffee 50ml, Ladyfingers 100g; Time: 40 minutes",🇮🇹
+tuna_tartare,"Tuna, avocado, soy sauce",Sesame oil,"Fish, Soy, Sesame",Non-Vegetarian,FRA,150 kcal,20g protein,5g fat,5g carbs,"Tuna 200g, Avocado 50g, Soy sauce 20ml; Time: 15 minutes",🇫🇷
+waffles,"Flour, eggs, milk","Syrup, butter","Milk, Eggs, Wheat",Vegetarian,"BEL, USA",300 kcal,6g protein,12g fat,40g carbs,"Flour 200g, Eggs 2, Milk 200ml; Time: 30 minutes","🇧🇪, 🇺🇸"
