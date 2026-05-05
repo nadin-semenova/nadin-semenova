@@ -1,6 +1,9 @@
 # MacOS
 .DS_Store
 
+# Claude Code
+.claude/
+
 # Large model files
 *.keras
 *.h5
